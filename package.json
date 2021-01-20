@@ -1,0 +1,11 @@
+{
+  "name": "debugger-terminator",
+  "version": "1.0.0",
+  "description": "debugger terminator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaywcjlove/debugger-terminator.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
